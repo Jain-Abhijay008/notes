@@ -1,2 +1,17 @@
-# notes
-Programming notes, cheat sheets and learning resources for AI, Data Science and Software Development.
+# Programming Notes
+
+Learning notes, cheat sheets and references.
+
+## Topics
+
+- Python
+- SQL
+- Machine Learning
+- Data Science
+- DSA
+- Git
+- Linux
+
+## Purpose
+
+Quick revision and long-term reference.
