@@ -5,6 +5,7 @@ Learning notes, cheat sheets and references.
 ## Topics
 
 - Python
+- html
 - SQL
 - Machine Learning
 - Data Science
